@@ -1,11 +1,68 @@
-h1{
-.color: red ; font-family: roboto; text-align: center;
-}
+.ul1{
+    display: flex;
+    gap: 10px;
 
-h2{
-    .coloor: blu ; font-family: roboto; text-align: center;
 }
+.ul1 li{
+    list-style: none;
+}
+.ul1 li a{
+    color: aqua;
+    text-decoration: none;
+}
+.nav{
+    color: blue;
+    text-align: center;
+}
+.nav2{
+    color: brown;
+}
+.lno{
+    color: blueviolet;
+}
+.pargph li p{
+    color: blue;
 
-a{
-    display: inline;
+}
+.lo{
+    color:rosybrown;
+}
+.prgrf li p{
+    color: yellow;
+}
+img{
+    width: 150px;
+}
+.rg h1{
+    color: red;
+}
+ .parent .rg h1{
+    color: aliceblue;
+}
+.bl{
+    color: blue;
+}
+.table{
+    color: chartreuse;
+}
+.th{
+    color: chocolate;
+}
+.td1{
+    color: brown;
+}
+.td2{
+    color: blue;
+}
+.td3{
+    color: blueviolet;
+}
+.form{
+    color: cornflowerblue;
+}
+.img{
+    color: darkgreen;
+}
+.vidéo{
+    color: darkorange;
 }
